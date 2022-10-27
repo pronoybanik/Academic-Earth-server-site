@@ -1,0 +1,42 @@
+[
+    {
+      "id": "01",
+      "name": "Aerospace engineering",
+      "photo_url": "https://th.bing.com/th/id/OIP._Zi5ZTlWYuvq0Mhli1wfKgHaET?pid=ImgDet&rs=1",
+      "details": "Aerospace Engineering is a branch of engineering with deals with aircraftand spacecraft. Aerospace engineering is work on research, design"
+
+    },
+    {
+      "id": "02",
+      "name": "Chemical engineering",
+      "photo_url": "https://engineering.case.edu/sites/default/files/styles/_none/public/chemical_student_research_lab.jpg?itok=9xCLleJI",
+      "details": "Chemical engineering occupies a unique position at the interface between molecular sciences and engineering. Intimately linked with the fundamental subjects of chemistry, biology,"
+    },
+    {
+      "id": "03",
+      "name": "Civil engineering",
+      "photo_url": "https://th.bing.com/th/id/OIP.HdBY4z4Inx0MUn59HI6SWAHaE8?pid=ImgDet&rs=1",
+      "details": "One of the oldest and broadest engineering disciplines, Civil Engineering involves planning, designing, constructing,"
+    },
+    {
+      "id": "04",
+      "name": "Computer engineering",
+      "photo_url":"https://ece.uic.edu/wp-content/uploads/sites/351/2019/03/ce-major.jpg",
+      "details": " Computer Engineering combines several disciplines of computer science and electronics to develop computer hardware and software. A computer engineer designs and develops computer systems and other technological devices."
+
+    },
+    {
+      "id": "05",
+      "name": "Electronic engineering",
+      "photo_url": "https://th.bing.com/th/id/R.759dec1e43dbb70e2d76bf31c4858d02?rik=nT%2fppW%2biFsJWpw&riu=http%3a%2f%2feducationcareerarticles.com%2fwp-content%2fuploads%2f2014%2f11%2fElectronic-Engineer.jpg&ehk=TtoUJwQP%2bibSJdj%2bm0KPkxWjSdOcLekkOSN4AMvfswU%3d&risl=&pid=ImgRaw&r=0",
+      "details": "Electronics Engineering is a specialisation of engineering that studies and utilises nonlinear and active electrical components to design the electronic circuits, devices, the integrated circuits and their systems"
+    },
+    {
+      "id": "06",
+      "name": "Mechanical engineering",
+      "photo_url": "https://th.bing.com/th/id/R.627e221b6430920063b91c48e617002c?rik=Af7UjNRVTXV9Ew&riu=http%3a%2f%2fut.net.pk%2fimages%2fservice-imgs%2fmechanical-engineering.jpg&ehk=J1BPaBAjzUGlp9WaJcK11BSOs8v11xz86kIPdY7Otl8%3d&risl=&pid=ImgRaw&r=0",
+      "details": "Mechanical engineering is a popular branch of engineering. It is a combination of the principles of mathematics, engineering physics, and materials science. It is related to the study of designing, analyzing, maintaining, and manufacturing mechanical systems."
+    }
+    
+    
+  ]
